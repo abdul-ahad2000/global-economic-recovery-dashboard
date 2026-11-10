@@ -32,8 +32,7 @@ The dataset contains macroeconomic indicators for different countries and econom
 | Publisher | Kenetic |
 | Time Period | January 2020 – December 2023 |
 | Number of Records | 433 rows |
-| Number of Columns | 14 columns (as reported in the assignment) |
-| Attributes Described | 15 |
+| Number of Columns | 15 |
 
 **Dataset source:** [Economic Data: Life After COVID – Kaggle](https://www.kaggle.com/datasets/keneticenergy/economic-data-life-after-covid/data)
 
