@@ -1,4 +1,4 @@
-<img width="1487" height="707" alt="image" src="https://github.com/user-attachments/assets/d2feacd4-9f1a-4acb-a874-67cc0f7fa9aa" /><img width="1487" height="707" alt="image" src="https://github.com/user-attachments/assets/dd4bf523-d858-43c1-a720-274e33fce128" /># Impact of COVID-19 on the Global Economy (2020–2023)
+# Impact of COVID-19 on the Global Economy (2020–2023)
 
 An analysis of the economic impact of COVID-19 across nine countries and economic regions, focusing on unemployment, monetary policy, GDP growth, manufacturing, services, consumer confidence, inflation and financial markets.
 
