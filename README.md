@@ -14,7 +14,7 @@ The analysis uses macroeconomic indicators and financial market data from Januar
 
 The Tableau dashboard presents the economic indicators and visualisations used in this project.
 
-**[View the Interactive Tableau Dashboard](YOUR_TABLEAU_LINK)**
+**[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/abdulahad2000/viz/ImpactofCOVID-19onGlobalEconomies/ImpactofCOVID-19onGlobalEconomies)**
 <img width="1190" height="528" alt="image" src="https://github.com/user-attachments/assets/b53a8085-4052-4ed7-b127-fdffdb2acbe2" />
 
 
