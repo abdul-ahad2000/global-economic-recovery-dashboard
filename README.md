@@ -4,9 +4,9 @@ An analysis of the economic impact of COVID-19 across nine countries and economi
 
 ## 📌 Project Overview
 
-The COVID-19 pandemic, which first emerged in December 2019, had a major impact on the global economy. It tested healthcare systems, increased the cost of living, caused widespread job losses and disrupted development projects. Interest rate changes also affected property prices, borrowing costs and bank loans.
+The COVID-19 pandemic, which first emerged in December 2019, had a major impact on the global economy. It tested healthcare systems, increased the cost of living, caused widespread job losses and disrupted development projects. Changes in interest rates also affected property prices, borrowing costs and bank loans.
 
-This project examines the adverse effects of COVID-19 on global economies, including the United States, United Kingdom, Canada, Europe and other countries. It investigates which areas of the economy were most and least affected by the pandemic.
+This project examines the economic effects of COVID-19 across nine countries and economic regions, including the United States, United Kingdom, Canada, Europe, China, Japan, Australia, New Zealand and Switzerland. It investigates which areas of the economy were most and least affected by the pandemic.
 
 The analysis uses macroeconomic indicators and financial market data from January 2020 to December 2023 to compare economic performance during the pandemic and the subsequent recovery period.
 
@@ -14,17 +14,15 @@ The analysis uses macroeconomic indicators and financial market data from Januar
 
 The Tableau dashboard presents the economic indicators and visualisations used in this project.
 
-[**View the Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/abdulahad2000/viz/ImpactofCOVID-19onGlobalEconomies/ImpactofCOVID-19onGlobalEconomies)
+**[View the Interactive Tableau Dashboard](YOUR_TABLEAU_LINK)**
 
 ## 🎯 Intended Audience
 
-This project is intended for policymakers, economists, financial analysts, business leaders and politicians who require economic insights to support economic recovery, policy development and investment decisions.
-
-The findings may also be useful to government departments, financial institutions and multinational companies interested in understanding the economic impact of COVID-19.
+This project is intended for policymakers, economists, financial analysts, business leaders and politicians who require economic insights to support economic recovery, policy development and investment decisions. The findings may also be useful to government departments, financial institutions and multinational companies interested in understanding the economic impact of COVID-19.
 
 ## 📊 Dataset Information
 
-The dataset contains macroeconomic indicators for different countries and economic regions. These indicators provide information about their financial and economic conditions during the COVID-19 pandemic.
+The dataset contains macroeconomic indicators for different countries and economic regions, providing information about their financial and economic conditions during the COVID-19 pandemic.
 
 | Dataset Details | Information |
 |---|---|
@@ -42,22 +40,22 @@ The dataset contains macroeconomic indicators for different countries and econom
 
 The analysis covers nine countries and economic regions:
 
-1. United States
-2. United Kingdom
-3. Canada
-4. Europe (Euro Area)
-5. China
-6. Japan
-7. Australia
-8. New Zealand
-9. Switzerland
+- United States
+- United Kingdom
+- Canada
+- Europe (Euro Area)
+- China
+- Japan
+- Australia
+- New Zealand
+- Switzerland
 
 ### Dataset Attributes
 
-The dataset contains numerical and categorical attributes.
+The dataset contains numerical and categorical attributes covering economic indicators and financial market information.
 
 | No. | Attribute | Description | Data Type |
-|---:|---|---|---|
+|---|---|---|---|
 | 1 | Country | Country name | Categorical (Nominal) |
 | 2 | Date | Date of record (YYYY-MM-DD) | Time / Interval |
 | 3 | Manufacturing PMI | Manufacturing sector economic activity indicator | Numeric (Ratio) |
@@ -76,26 +74,24 @@ The dataset contains numerical and categorical attributes.
 
 ## 🔍 Key Questions for Analysis
 
-The project investigates the following questions:
+The project investigates six main questions:
 
 1. Which countries experienced the most severe unemployment during the pandemic, and had unemployment fully recovered by 2023?
 2. How did countries adjust their interest rates during COVID-19 and afterwards?
-3. Which countries experienced the worst GDP contraction due to COVID-19, and which countries demonstrated the strongest GDP recovery by 2023?
+3. Which countries experienced the worst GDP contraction due to COVID-19, and which demonstrated the strongest GDP recovery by 2023?
 4. How did COVID-19 affect manufacturing, services and consumer confidence in relation to GDP growth across global economies?
 5. Was there a relationship between rising inflation (Core CPI and CPI YoY) and lower GDP growth rates during and after COVID-19?
-6. Which period experienced the strongest upward trend and highest volatility in the average financial asset value?
+6. Which period experienced the strongest upward trend and highest volatility in average financial asset values?
 
 ## 📊 Detailed Analysis and Key Findings
 
 ### 1. Unemployment Trends
 
-According to the International Labour Organization (ILO), the global labour market lost approximately 255 million full-time jobs in 2020. This highlights the severity of the pandemic's impact on employment (International Labour Organization, n.d.).
+According to the International Labour Organization (ILO), the global labour market lost approximately 255 million full-time jobs in 2020, highlighting the severity of the pandemic's impact on employment (International Labour Organization, n.d.).
 
-Unemployment rates across global economies increased sharply in April 2020 due to COVID-19 and the implementation of lockdowns in countries such as the United States, Canada and European countries.
+Unemployment rates across global economies increased sharply in April 2020 due to COVID-19 and the implementation of lockdowns in countries such as the United States, Canada and European countries. Canada (13.70%) and the United States (14.90%) experienced particularly high unemployment rates, reflecting the impact of economic shutdowns.
 
-Canada (13.70%) and the United States (14.90%) experienced particularly high unemployment rates, reflecting the impact of economic shutdowns.
-
-Europe remained relatively stable throughout the pandemic, experiencing only a minor increase in unemployment. China and Japan experienced less severe impacts, with their unemployment figures remaining relatively similar.
+Europe remained relatively stable throughout the pandemic, experiencing only a minor increase in unemployment. China and Japan also experienced less severe impacts, with their unemployment figures remaining relatively similar.
 
 By the end of 2023, unemployment rates had generally declined, indicating economic recovery. Countries and regions such as Europe, Australia, New Zealand and Switzerland had returned to levels below their pre-pandemic unemployment rates.
 
@@ -103,69 +99,49 @@ By the end of 2023, unemployment rates had generally declined, indicating econom
 
 According to Ihrig and Waller (2024), the US Federal Reserve increased interest rates to levels not seen in approximately 40 years to fight inflation.
 
-Central banks around the world initially reduced interest rates to historically low levels in response to the pandemic. Japan and Switzerland continued their negative interest rate policies during this period.
+Central banks around the world initially reduced interest rates to historically low levels in response to the pandemic. Japan and Switzerland continued their negative interest rate policies during this period. The US interest rate was approximately 0.25% before increasing sharply to 5.15% in 2023.
 
-The US interest rate was approximately 0.25% before increasing sharply to 5.15% in 2023.
-
-New Zealand, Canada, the United Kingdom and Australia introduced significant interest rate increases in 2022 to counter rising inflation.
-
-China maintained relatively stable interest rates throughout the COVID-19 period, both before and after the pandemic.
+New Zealand, Canada, the United Kingdom and Australia introduced significant interest rate increases in 2022 to counter rising inflation. In contrast, China maintained relatively stable interest rates throughout the COVID-19 period and its aftermath.
 
 ### 3. GDP Contraction and Recovery
 
 According to Dyvik (2024), global GDP declined by approximately 3.4% in 2020, representing its sharpest decline since World War II.
 
-China was the only country in the analysis to record positive GDP growth in 2020, at approximately 8.23%, due to its early recovery and manufacturing activities.
-
-Apart from China, all the other countries experienced GDP contractions in 2020. The United Kingdom (-10.35%), Europe (-6.23%) and Canada (-5%) experienced some of the largest declines.
+China was the only country in the analysis to record positive GDP growth in 2020, at approximately 8.23%, due to its early recovery and manufacturing activities. Apart from China, all other countries experienced GDP contractions in 2020. The United Kingdom (-10.35%), Europe (-6.23%) and Canada (-5%) experienced some of the largest declines.
 
 Global economies recorded positive GDP growth in 2022, but growth slowed again in 2023. Financial tightening, workforce shortages and supply chain issues remained key reasons behind the slowdown.
 
 ### 4. Impact of Manufacturing, Services and Consumer Confidence
 
-Countries with a balance between PMI and Consumer Confidence experienced more stable GDP growth.
+Countries with a balance between PMI and consumer confidence experienced more stable GDP growth. However, a high PMI alone does not necessarily indicate strong GDP growth when consumer confidence remains weak.
 
-A high PMI alone does not necessarily indicate strong GDP growth when consumer confidence remains weak.
-
-China stood out in this analysis despite having comparatively lower PMI figures, as it recorded strong consumer confidence. This contributed to its high GDP growth of 5.47%.
-
-This indicates that consumer sentiment plays an important role in driving economic activity, even when manufacturing and services PMI figures are relatively average.
+China stood out in this analysis despite having comparatively lower PMI figures, as it recorded strong consumer confidence. This contributed to its high GDP growth of 5.47%, indicating that consumer sentiment plays an important role in driving economic activity, even when manufacturing and services PMI figures are relatively average.
 
 In comparison, regions and countries such as Europe, the United Kingdom and Japan experienced weaker consumer confidence, which contributed to slower GDP growth despite their PMI figures being 50 or higher.
 
-Overall, COVID-19 had a significant influence on consumer confidence around the world, affecting economic recovery despite improvements in manufacturing and services activity.
-
-China was able to rebuild consumer confidence, which contributed to positive GDP growth, while other economies lagged behind.
+Overall, COVID-19 significantly influenced consumer confidence around the world, affecting economic recovery despite improvements in manufacturing and services activity. China was able to rebuild consumer confidence, which contributed to positive GDP growth, while other economies lagged behind.
 
 ### 5. Inflation Impact on Global Economies and GDP
 
 According to the World Economic Forum, global inflation increased due to energy price shocks and supply chain disruptions, which affected GDP growth around the world (Neufeld, 2022).
 
-The analysis indicates a relationship between rising inflation and slower GDP growth.
+The analysis indicates a relationship between rising inflation and slower GDP growth. The United Kingdom (4.96% CPI, 0.96% GDP) and the United States (4.52% CPI, 2.05% GDP) experienced relatively high inflation over the four-year period covering the pandemic and its aftermath. Demand surges, supply chain disruptions and the energy crisis contributed to these conditions.
 
-The United Kingdom (4.96% CPI, 0.96% GDP) and the United States (4.52% CPI, 2.05% GDP) experienced relatively high inflation over the four-year period covering the pandemic and its aftermath. Demand surges, supply chain disruptions and the energy crisis contributed to these conditions.
+Europe recorded CPI inflation of 4.17% and GDP growth of 2.7%. In comparison, China maintained relatively low inflation of 1.41% CPI while recording the highest GDP growth of 5.47%, supported by strong policies and export demand.
 
-Europe recorded CPI inflation of 4.17% and GDP growth of 2.7%.
-
-In comparison, China maintained relatively low inflation of 1.41% CPI while recording the highest GDP growth of 5.47%, supported by strong policies and export demand.
-
-Australia and Canada remained relatively moderate in terms of inflation and GDP growth.
-
-Switzerland recorded low inflation of 1.21% alongside weaker GDP growth of 0.87%. This demonstrates that low inflation does not necessarily result in high GDP growth.
+Australia and Canada remained relatively moderate in terms of inflation and GDP growth. Switzerland recorded low inflation of 1.21% alongside weaker GDP growth of 0.87%, demonstrating that low inflation does not necessarily result in high GDP growth.
 
 New Zealand experienced a different pattern, recording GDP growth of 4.61% despite relatively high inflation of 4.63%. This could be related to its strong labour market and exports.
 
-Overall, high inflation affects economic growth, but countries with strong economic fundamentals can still achieve higher GDP growth.
+Overall, high inflation can affect economic growth, but countries with strong economic fundamentals can still achieve higher GDP growth.
 
 ### 6. Financial Market Trends
 
 According to Statista (2024), major stock markets reached their lowest points in March 2020.
 
-The financial market chart shows a strong upward trend in the average financial asset value from late 2020 to mid-2022. This was associated with the reopening of economies and stimulus measures introduced following the COVID-19 pandemic.
+The financial market chart shows a strong upward trend in average financial asset values from late 2020 to mid-2022. This was associated with the reopening of economies and stimulus measures introduced following the COVID-19 pandemic.
 
-However, the period from mid-2022 to 2023 experienced increased volatility, characterised by wider price fluctuations and more frequent changes in market direction.
-
-This could be related to the impact of the Ukraine war and aggressive interest rate increases.
+However, the period from mid-2022 to 2023 experienced increased volatility, characterised by wider price fluctuations and more frequent changes in market direction. This could be related to the impact of the Ukraine war and aggressive interest rate increases.
 
 Although the overall trend remained positive, these fluctuations suggested changes in investor confidence and growing concerns about a possible global recession.
 
@@ -175,9 +151,7 @@ Based on the findings, the following recommendations focus on addressing unemplo
 
 ### 1. Tackle Unemployment
 
-China effectively managed unemployment by accelerating its manufacturing sector and applying targeted economic policies that created more employment opportunities.
-
-Other countries can invest in manufacturing and export-oriented industries, as these sectors are important for post-pandemic recovery.
+China effectively managed unemployment by accelerating its manufacturing sector and applying targeted economic policies that created more employment opportunities. Other countries can invest in manufacturing and export-oriented industries, as these sectors are important for post-pandemic recovery.
 
 Australia also performed better during the pandemic. Other countries can implement targeted job support and wage subsidies similar to Australia's JobKeeper programme, which provided financial support to businesses and workers.
 
@@ -187,29 +161,21 @@ New Zealand succeeded during COVID-19 due to its labour market resilience. Other
 
 Interest rate increases during 2022–2023 raised borrowing costs, affecting housing, loans and credit markets (Baldwin, 2024).
 
-China and Switzerland demonstrate different monetary and economic policy approaches throughout the pandemic.
-
-Other countries could learn from China by maintaining small and gradual interest rate changes. This could help avoid rapid increases or reductions, maintain financial stability and prevent further inflationary pressure.
+China and Switzerland demonstrate different monetary and economic policy approaches throughout the pandemic. Other countries could learn from China's approach by maintaining small and gradual interest rate changes. This could help avoid rapid increases or reductions, maintain financial stability and prevent further inflationary pressure.
 
 Countries could also learn from Switzerland by adopting stable and consistent fiscal policies. Switzerland used a balanced approach to maintain low inflation while supporting steady economic growth, helping prevent significant fluctuations in credit markets.
 
 ### 3. Supply Chain Change
 
-China and Japan performed well in maintaining stable supply chains despite disruptions during the pandemic.
+China and Japan performed well in maintaining stable supply chains despite disruptions during the pandemic. Other countries can diversify their supply chains by reducing their reliance on China and promoting regional trade agreements to protect against future disruptions.
 
-Other countries can diversify their supply chains by reducing their reliance on China. They should also promote regional trade agreements to protect against future disruptions.
-
-Countries could follow Japan's approach to developing local manufacturing hubs in key sectors, such as semiconductor production, to avoid future supply chain risks.
-
-Investment in technology can also improve supply chain efficiency. Smart logistics, AI-driven production and automation can help streamline manufacturing processes, similar to China's approach.
+Countries could follow Japan's approach to developing local manufacturing hubs in key sectors, such as semiconductor production, to avoid future supply chain risks. Investment in technology can also improve supply chain efficiency, as smart logistics, AI-driven production and automation can help streamline manufacturing processes, similar to China's approach.
 
 During COVID-19, Malaysia stopped supplying chicken to Singapore for several months (Andres, 2022). As a result, chicken prices increased in Singapore. This demonstrates why local production is necessary to avoid supply disruptions caused by dependence on other countries.
 
 ### 4. Measures to Control Inflation
 
-China, Switzerland and New Zealand maintained relatively low inflation while their economies continued to grow.
-
-Other countries can adopt measures to control inflation through adjustments to demand and supply, similar to China's use of targeted stimulus packages and energy price controls.
+China, Switzerland and New Zealand maintained relatively low inflation while their economies continued to grow. Other countries can adopt measures to control inflation through adjustments to demand and supply, similar to China's use of targeted stimulus packages and energy price controls.
 
 Switzerland also maintained low inflation through self-sufficiency in various sectors. Other countries could focus on domestic production to reduce inflationary pressure caused by supply chain disruptions.
 
@@ -217,9 +183,7 @@ Countries could also apply targeted subsidies and price-control measures, simila
 
 ### 5. Digital Economy Investment
 
-China made significant investments in digital infrastructure, whereas New Zealand focused on green energy.
-
-Other countries can follow New Zealand's approach by investing in renewable energy and green technologies. This can improve environmental sustainability and create employment opportunities in the green economy.
+China made significant investments in digital infrastructure, whereas New Zealand focused on green energy. Other countries can follow New Zealand's approach by investing in renewable energy and green technologies. This can improve environmental sustainability and create employment opportunities in the green economy.
 
 Countries can also drive digital transformation in manufacturing and services by following China's approach. China has focused on becoming a leader in artificial intelligence, 5G and e-commerce, demonstrating how technological advancement can support economic recovery and future growth.
 
@@ -227,9 +191,7 @@ Other countries can introduce policies that support green start-ups and digital 
 
 ### 6. Improved Financial Market
 
-China, Switzerland and New Zealand maintained stable financial markets despite uncertainty during the pandemic.
-
-Other countries can monitor financial market risks and implement timely interventions to avoid market crashes, similar to Switzerland's approach.
+China, Switzerland and New Zealand maintained stable financial markets despite uncertainty during the pandemic. Other countries can monitor financial market risks and implement timely interventions to avoid market crashes, similar to Switzerland's approach.
 
 They should also promote long-term investments rather than speculative trading. New Zealand's focus on steady economic growth and viable financial policies provides an example of promoting financial stability.
 
@@ -237,18 +199,14 @@ Countries can further improve financial literacy and transparency to increase in
 
 ## 📝 Conclusion
 
-COVID-19 caused serious economic disruption around the world, affecting employment, GDP growth and financial markets.
-
-Although economic recovery became evident across many countries, challenges such as inflation, supply chain disruptions and unemployment continued to affect global economies.
+COVID-19 caused serious economic disruption around the world, affecting employment, GDP growth and financial markets. Although economic recovery became evident across many countries, challenges such as inflation, supply chain disruptions and unemployment continued to affect global economies.
 
 Strategic investments, sound economic policies and preparation for future disruptions are necessary to support sustainable economic growth.
 
 ## 🛠️ Tools and Technologies
 
 - **Tableau Public:** Data visualisation and interactive dashboard development.
-- **Microsoft Excel:** Data exploration and analysis.
 - **Kaggle:** Dataset source.
-- **GitHub:** Project documentation and version control.
 
 ## 📚 References
 
@@ -266,9 +224,5 @@ Strategic investments, sound economic policies and preparation for future disrup
 
 **Abdul Ahad**
 
-- GitHub: [abdulahad2000](https://github.com/abdulahad2000)
-- Tableau Public: [View Profile](https://public.tableau.com/app/profile/abdulahad2000)
-
----
-
-*Academic project – MECG11004: Data Management for Data Analytics, January 2025.*
+- **GitHub:** [abdulahad2000](https://github.com/abdulahad2000)
+- **Tableau Public:** [View Profile](YOUR_TABLEAU_PROFILE_LINK)
