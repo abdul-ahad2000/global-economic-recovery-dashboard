@@ -226,5 +226,5 @@ Strategic investments, sound economic policies and preparation for future disrup
 
 **Abdul Ahad**
 
-- **GitHub:** [abdulahad2000](https://github.com/abdulahad2000)
-- **Tableau Public:** [View Profile](YOUR_TABLEAU_PROFILE_LINK)
+- **GitHub:** [abdulahad2000](https://github.com/abdul-ahad2000)
+- **Tableau Public:** [View Profile](https://public.tableau.com/app/profile/abdulahad2000/vizzes)
