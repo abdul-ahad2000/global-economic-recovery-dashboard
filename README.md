@@ -85,30 +85,6 @@ The project investigates the following questions:
 5. Was there a relationship between rising inflation (Core CPI and CPI YoY) and lower GDP growth rates during and after COVID-19?
 6. Which period experienced the strongest upward trend and highest volatility in the average financial asset value?
 
-## 📈 Initial Analysis
-
-### Headline
-
-**The United States experienced the worst unemployment spike during the COVID-19 pandemic but achieved one of the strongest recoveries by 2023 among major global economies.**
-
-### Summary Findings
-
-The COVID-19 pandemic had a significant negative impact on global economies, but the United States experienced a particularly different pattern compared with other countries.
-
-In April 2020, during the initial stage of the pandemic, US unemployment reached a record high of 14.9%. This was the highest unemployment rate among the countries and regions examined, including Canada, the United Kingdom and Europe. Lockdowns, business closures and widespread layoffs contributed to the increase.
-
-However, the situation changed by the end of 2023, when US unemployment had declined to 3.9%, demonstrating a strong economic recovery. Fiscal stimulus, vaccine rollouts and the reopening of industries were major factors behind this improvement.
-
-Canada also experienced a high unemployment rate of approximately 13% in April 2020. However, it took longer to return to pre-pandemic unemployment levels, demonstrating differences in the economic conditions and policies of Canada and the United States.
-
-Another important finding concerns interest rate trends. Most countries reduced interest rates to historically low levels to support their economies. For example, the US interest rate was approximately 0.25% in 2021 but increased to 5.15% by 2023, reflecting the shift from supporting economic recovery to controlling inflation.
-
-GDP also experienced a significant decline during the pandemic in 2020. Countries such as the United Kingdom (-10.35%), Europe (-6.23%), Canada (-5%) and Japan (-4.20%) experienced greater GDP contractions than the United States (-2.23%).
-
-In 2023, the United States continued to grow at a GDP rate of 2.53%, while the United Kingdom recorded only 0.13% and Canada 1.05%, indicating slower recovery rates.
-
-China was the only country in the analysis to maintain positive GDP growth before and after the pandemic, despite experiencing some of the harshest and longest lockdowns.
-
 ## 📊 Detailed Analysis and Key Findings
 
 ### 1. Unemployment Trends
